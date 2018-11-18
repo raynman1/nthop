@@ -10,6 +10,14 @@
 
 NthopinionToken
 
-# Contract Address
+# NTH Contract Address
 
 0x60293bd11de6cce1c7fd87a96747d6099a020cd0
+
+# Public Key Address PT1
+
+0x7462BcC97086A79a6310B425F408014705cD1fcA
+
+# Public Key Address MD1
+
+0x2aec6a487E96be3067046D7CfD69c3BcfB280c16
