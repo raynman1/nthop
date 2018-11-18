@@ -20,6 +20,8 @@ NthopinionToken
 
   Associated Rinkeby Test Wallet Private Key: fc09cf137598d81d45c91c07fb310f0714139c0992d119d88af776e21e63d0bf
 
-# Public Key Address MD1
+# Public Key Address ContractCreator
 
 0x2aec6a487E96be3067046D7CfD69c3BcfB280c16
+
+
