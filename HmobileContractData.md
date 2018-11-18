@@ -6,19 +6,18 @@ HmobileCoin / HMO
 
 0x013658c62a5f73ca5a322cc0fc35108858510b96
 
-# Public Key Address PATIENT1
-
-
+# Public Key Address 
+PATIENT_0: 
+0xBEDa8BE440d4afae4c4E28469fABd24a20e1b747
   
-# Public Key Address DOCTOR1
+# Public Key Address 
+DOCTOR_0:
+0x66E437D3FB414Ca912678c7Ef49C7EDB6347cfdD
 
 
-
-# Public Key Address Contract Creator
-
+# Contract Creator
+Public Key Address 
 Meta Mask: 0x307888192628CE5037a58A7376F4C59e1A605bFa
-
-  Private Key: 
 
 # ABI
 [
