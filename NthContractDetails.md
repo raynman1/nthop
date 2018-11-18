@@ -14,14 +14,21 @@ NthopinionToken
 
 0x60293bd11de6cce1c7fd87a96747d6099a020cd0
 
-# Public Key Address PT1
+# Public Key Address PATIENT1
 
 0x7462BcC97086A79a6310B425F408014705cD1fcA
 
-  Associated Rinkeby Test Wallet Private Key: fc09cf137598d81d45c91c07fb310f0714139c0992d119d88af776e21e63d0bf
+  Associated Rinkeby Test Wallet Private Key (demo): fc09cf137598d81d45c91c07fb310f0714139c0992d119d88af776e21e63d0bf
+  
+# Public Key Address DOCTOR1
+
+0x8Bc8f2CA3d78fe01A7E4bfb118761c751438b854
+
+  Associated Private Key (demo): 3b95fb2b87bcbbc87150a0cbb889a1d45c25f3985825d6847c638c2943e70174
 
 # Public Key Address ContractCreator
 
 0x2aec6a487E96be3067046D7CfD69c3BcfB280c16
 
+Metamask Private Key (demo): 79af02221bfeec47191c3831ff03586ce077f52ef729d7b8a4bba6777ea08ac3
 
